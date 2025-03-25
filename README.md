@@ -15,7 +15,7 @@ For a more precise description of the point selection techniques, please refer t
 ## RIRO: Random-In-Random-Out
 ![RIRO](RIRO.gif)
 
-## Greedy: In if Uncertainty High, Least Uncertainty Out
+## Greedy: In if Uncertainty Higher Than For Any Stored, Least Uncertainty Out
 ![GREEDY](GREEDY.gif)
 
 ## Threshold: In if Over Threshold, Random Out
