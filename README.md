@@ -22,4 +22,4 @@ For a more precise description of the point selection techniques, please refer t
 ![THRESHOLD](THRESHOLD.gif)
 
 ## Threshold-Greedy: In if Over Threshold, Least Uncertainty Out
-![THRESHOLD_GREEDY](THRESHOLD_G.gif)
+![THRESHOLD_GREEDY](THRESHOLDG.gif)
